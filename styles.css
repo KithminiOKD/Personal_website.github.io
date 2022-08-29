@@ -1,0 +1,60 @@
+.d1{
+    background-color: #6E9CF3;
+    width: 400px;
+    height: 1175px;
+}
+.profile_photo{
+    padding: 25%;
+}
+.profile_img{
+    display: block;
+    height: 200px;
+    width: 200px;
+}
+.name{
+    color: darkblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+}
+.location{
+    height: 30px;
+    width: 30px;
+}
+.about{
+    float: right;
+    position: relative;
+    height: 50%;
+    width: 70%;
+    display: flex;
+    background-color: #C1C4F2;
+    background-size: cover;
+}
+.head1{
+    padding-left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkblue;
+}
+.personal{
+    font-size: larger;
+    font-family: sans-serif;
+}
+.image1{
+    padding: 0%;
+    float: right;
+    position: relative;
+    height: 623px;
+    width: 70%;
+    display: flex;
+    background-color: lightgrey;
+    background-size: cover;
+}
+.skills{
+    float: right;
+    position: relative;
+    height: 623px;
+    width: 70%;
+}
+progress{
+    width: 500px;
+    height: 30px;
+}
